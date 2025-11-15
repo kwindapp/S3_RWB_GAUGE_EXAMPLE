@@ -1,4 +1,7 @@
-RWB CAN BUS DISPLAY https://www.instagram.com/rwb_janine/
+RWB CAN BUS DISPLAY 
+https://www.instagram.com/rwb_janine/
+
+
 [CAN protocol trijekt Rev.12.pdf](https://github.com/user-attachments/files/23557937/CAN.protocol.trijekt.Rev.12.pdf)
 
 [CAN protocol AIM Rev.6.pdf](https://github.com/user-attachments/files/23557936/CAN.protocol.AIM.Rev.6.pdf)
